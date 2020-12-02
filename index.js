@@ -6,7 +6,7 @@ class Cat {
   }
   
   speak() {
-    return `${name}`
+    return `${name} says meow!`
   }
 }
 
